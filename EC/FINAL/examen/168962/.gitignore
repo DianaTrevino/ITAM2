@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pkl
+*.log
+.Rhistory
+.RData
+.DS_Store
+
+data/raw/*
+!data/raw/.gitkeep

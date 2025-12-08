@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+pandas
+joblib
+pyarrow
+pymysql
+sqlalchemy
+scikit-learn==1.6.1

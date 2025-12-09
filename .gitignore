@@ -1,6 +1,12 @@
-
 # macOS
 .DS_Store
+**/.DS_Store
 
-# backups
+# Carpetas ajenas al examen
+FE/
+EC/data/
+EC/examen/
+
+# Backups
 *.zip
+

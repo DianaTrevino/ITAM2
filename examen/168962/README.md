@@ -130,13 +130,14 @@ R -e "shiny::runApp('shiny', host='0.0.0.0', port=3838)"
 ```
 
 ## AWS (documentación de despliegue)
+Nota: No pude crear mi cuenta de AWS profe, por lo que tuve que ejemplificarlo aquí.
 
 ### 1) RDS MySQL
 
 Crear instancia:
 - Engine: MySQL 8
 - DB instance identifier: autompg-rds
-- Master username: admin (ejemplo)
+- Master username: admin 
 - Password: <tu_password>
 - Initial database name: autompg
 - Public access: Yes (solo pruebas)

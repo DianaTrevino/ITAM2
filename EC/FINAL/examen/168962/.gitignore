@@ -9,3 +9,15 @@ __pycache__/
 data/raw/*
 !data/raw/.gitkeep
 .DS_Store
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Carpetas ajenas al examen (si no forman parte de la entrega)
+FE/
+EC/data/
+EC/examen/
+
+# Evitar backups zip si los llegas a generar
+*.zip
+
